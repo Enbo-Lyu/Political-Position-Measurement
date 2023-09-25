@@ -5,6 +5,7 @@ including the DW-score, the datasets.
 
 The 'original_method.ipynb' contains code for the implementation of the original method;
 
-The 'refine_method.ipynb' contains code of my new methods;
+The 'refine_method.ipynb' contains code of my new methods, including the 'Directional augmentation',
+and the 'Iterative directional augmentation'.
 
 The 'vote_data.ipynb' contains code for the utilization of the DW-score.
